@@ -1,8 +1,8 @@
 # SimpleNode-RedFlows
 <h2>Some Simple Node-Red flows for others to discover and learn.</h2>
 
-<p>- Node-RedMQTTinstallation_V1.1.pdf<p>  <p>The Node-Red installation document <p>
-
+<p>- Node-RedMQTTinstallation_V1.1.pdf</p>  <p>The Node-Red installation document </p>
+<p>- Node-RedMQTTfirstStepsV1.1.pdf</p>     <p>The Node-Red first steps in Flows </p><br>
 
 <p>These flows can be imported and just need a little modification to suit local environment.</p> 
 <p>- buienradarflow.json</p>  <p>Using the Buienradar palette to grab local weather conditions and display them on the Node-Red UI</p><br>
